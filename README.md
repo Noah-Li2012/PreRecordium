@@ -1,9 +1,9 @@
-# PreRecordium  
+<img width="890" height="478" alt="image" src="https://github.com/user-attachments/assets/41959591-b401-41d1-9fb2-fe64119f6652" /># PreRecordium  
 **🎙️ The Recorder That Records The Past**
 
 ---
 
-## Version 1.7.6
+## Version 1.6.3
 
 PreRecordium is a lightweight, powerful app that lets you save **audio from the past 2 minutes** — even if you didn’t hit record beforehand.
 
@@ -54,7 +54,14 @@ PreRecordium was built with love using Python and packaged as an `.exe` for your
 
 ## 🪪 License
 
-MIT License. You can use it, remix it, and share it. Just don’t resell it as your own.
+Free to use/share, No copyright, No resell
+
+---
+
+## Download
+Download with Github Release
+https://github.com/Noah-Li2012/PreRecordium/releases/tag/tool%2Crecorder
+100% FREE, 100% PRIVATE, 100% OFFLINE
 
 ---
 
