@@ -40,9 +40,9 @@ If PreRecordium is live and running, it constantly listens and stores a rolling 
 
 ---
 
-## 📸 Screenshots (Optional)
+## UI Prewview
 
-_Add a screenshot of your UI here if you want!_
+![UI Preview](UI%20preview.png)
 
 ---
 
