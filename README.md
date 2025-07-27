@@ -1,4 +1,4 @@
-<img width="890" height="478" alt="image" src="https://github.com/user-attachments/assets/41959591-b401-41d1-9fb2-fe64119f6652" /># PreRecordium  
+## PreRecordium
 **🎙️ The Recorder That Records The Past**
 
 ---
