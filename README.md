@@ -3,7 +3,7 @@
 
 ---
 
-## Version 1.6.3
+## Version 1.7.4
 
 PreRecordium is a lightweight, powerful app that lets you save **audio from the past 2 minutes** — even if you didn’t hit record beforehand.
 
