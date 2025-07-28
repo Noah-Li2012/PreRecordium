@@ -40,12 +40,6 @@ If PreRecordium is live and running, it constantly listens and stores a rolling 
 
 ---
 
-## UI Prewview
-
-![UI Preview](UI%20preview.png)
-
----
-
 ## 🔍 About the App
 
 PreRecordium was built with love using Python and packaged as an `.exe` for your convenience. No installation, no tech skills needed — just run and record the past!
@@ -60,7 +54,7 @@ Free to use/share, No copyright, No resell
 
 ## Download
 Download with Github Release
-https://github.com/Noah-Li2012/PreRecordium/releases/tag/tool%2Crecorder
+https://github.com/Noah-Li2012/PreRecordium/releases/download/1.7.4/PreRecordium.Release.1.7.4.exe
 100% FREE, 100% PRIVATE, 100% OFFLINE
 
 ---
