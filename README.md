@@ -48,7 +48,8 @@ PreRecordium was built with love using Python and packaged as an `.exe` for your
 
 ## 🪪 License
 
-Free to use/share, No copyright, No resell
+Free to use/share, Do Not copyright, Do Not resell
+©Copyright @noahliNotFound(YouTube channel)
 
 ---
 
